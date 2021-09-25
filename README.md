@@ -1,10 +1,8 @@
 ### Hi there 👋
 
-- :whale: I’m Nelson Cheung, a Junior Student at Sun-Yat Sen University.
-- 🌱 I’m currently learning Machine Learning, Deep Learning, Compiler, Operating System……
-- :eyes: I’m working as a TA in the 2021 spring operating system course of Sun Yat-Sen University, taking the responsibility for writing the tutorial and Q&A.
-- 🤔 The most things I’m proud of are my 32-bit protect mode toy operating system named NeXon and a tutorial for NeXon named “OS Lab: A Freshman’s Perspective”.
-- :sweat_smile: You will never see any public repositories relative to my course project tasks, because they are too simple and stupid to be public.
+- :whale: I’m **Nelson Cheung**, a **Senior** Student at **Sun Yat-sen University**.
+- 🌱 I’m currently working as an intern at **Huawei 2012 Lab, Service Lab**.
+- :eyes: You can see my **personal website** at https://nelson-cheung.cn/.
 - 📫 If you have any question or comments, please email me at zhangjunyu@nelson-cheung.cn
 
 <h4 align="center">Thank you for ++the visiting number</h4>
