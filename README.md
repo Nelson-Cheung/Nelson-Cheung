@@ -1,7 +1,9 @@
 ### Hi there 👋
 
-- :whale: I’m **Nelson Cheung**, a graduate student at **Sun Yat-sen University**.
-- :eyes: You can visit my **personal website** at https://nelson-cheung.cn/.
+- :whale: I’m Nelson Cheung, a graduate student at Sun Yat-sen University.
+- :man_scientist:My research interests are in Cloud Computing and Operating System.
+- :lock:I am currently focus on the Cloud Runtime Security and Anomaly Detection.
+- :eyes: You can visit my **personal website** at https://nelson-cheung.cn/. 
 - 📫 If you have any question or comments, please email me at zhangjunyu@nelson-cheung.cn
 
 <h4 align="center">Thank you for ++the visiting number</h4>
