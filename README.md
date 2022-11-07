@@ -14,7 +14,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NelsonCheung-cn&show_icons=true&theme=transparent)
 
-<h4 align="center">Thank you for ++the visiting number</h4>
+<!-- <h4 align="center">Thank you for ++the visiting number</h4>
 
-<p align="center"><img src="https://profile-counter.glitch.me/{NelsonCheung688585}/count.svg" alt="AnhellO :: Nelson's Count" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{NelsonCheung688585}/count.svg" alt="AnhellO :: Nelson's Count" /></p> -->
 
