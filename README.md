@@ -18,7 +18,7 @@
 
 ### GitHub Stats:
 
-![Nelson's GitHub stats](https://github-readme-stats.vercel.app/api?username=NelsonCheung-cn&show_icons=true&theme=transparent)
+![Nelson's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nelson-Cheung&show_icons=true&theme=transparent)
 
 <!-- <h4 align="center">Thank you for ++the visiting number</h4>
 
