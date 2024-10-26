@@ -3,7 +3,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&center=true&vCenter=true&width=435&lines=%E5%94%AF%E8%87%AA%E7%94%B1%E4%B8%8E%E6%B5%AA%E6%BC%AB%E4%B8%8D%E5%8F%AF%E8%BE%9C%E8%B4%9F" alt="Typing SVG" /></a>
 </p>
 
-- :whale: I’m Nelson Cheung, a graduate student at **Sun Yat-sen University**.
+- :whale: I’m Nelson Cheung, a Ph.D. student at **Sun Yat-sen University**.
 - :man_scientist:My research interests are in **Cloud Computing** and **Operating System**.
 - :lock:I am currently focus on the **Cloud Native System Performance Optimization based on Kernel Extensions**.
 - :eyes: You can visit my **personal website** at https://nelson-cheung.github.io/. 
