@@ -5,7 +5,7 @@
 
 - :whale: I’m Nelson Cheung, a graduate student at **Sun Yat-sen University**.
 - :man_scientist:My research interests are in **Cloud Computing** and **Operating System**.
-- :lock:I am currently focus on the **Cloud Runtime Security** and **Root Cause Localization**.
+- :lock:I am currently focus on the **Cloud Native System Performance Optimization based on Kernel Extensions**.
 - :eyes: You can visit my **personal website** at https://nelson-cheung.github.io/. 
 - 📑 You can find my **resume** at https://nelson-cheung.github.io/uploads/resume.pdf.
 - 🎱 You can also call me **Junyu Zhang** (Mandarin) or **Kwanyu Cheung** (Cantonese). 
