@@ -9,7 +9,7 @@
 - :eyes: You can visit my **personal website** at https://nelson-cheung.github.io/. 
 - 📑 You can find my **resume** at https://nelson-cheung.github.io/uploads/resume.pdf.
 - 🎱 You can also call me **Junyu Zhang** (Mandarin) or **Kwanyu Cheung** (Cantonese). 
-- 📫 If you have any question or comments, please email me at zhangjunyu@nelson-cheung.cn
+- 📫 If you have any question or comments, please email me at nelsoncheungsmile@gmail.com
 - 🔖 My first name **"Nelson"** is derivted from a HongKong movie starring Chow Yun-fat. My last name **"Cheung"** is pronounced in Cantonese, to show great respect for my mother tongue.
 
 <h3 align="left">Languages and Tools:</h3>
