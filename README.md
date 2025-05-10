@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nelson Cheung</h1>
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&center=true&vCenter=true&width=435&lines=%E5%94%AF%E8%87%AA%E7%94%B1%E4%B8%8E%E6%B5%AA%E6%BC%AB%E4%B8%8D%E5%8F%AF%E8%BE%9C%E8%B4%9F" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&center=true&vCenter=true&repeat=false&width=435&lines=Nous+ne+sommes+rien%2C+soyons+tout" alt="Typing SVG" /></a>
 </p>
 
 - :whale: I’m Nelson Cheung, a Ph.D. student at **Sun Yat-sen University**.
